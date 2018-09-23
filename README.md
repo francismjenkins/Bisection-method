@@ -8,4 +8,4 @@ interval, and with each iteration, we continually narrow the interval until we f
 tolerance. In essence, when we use bisection to find the maxima, we simply find critical values for the first
 derivative of our function (rather than the function itself). 
 
-The code was written in both Matlab and Perl.
+The code was written in Matlab.
